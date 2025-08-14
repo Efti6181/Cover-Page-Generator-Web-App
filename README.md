@@ -93,9 +93,9 @@ These features work in a local environment or when hosted on a PHP-supported ser
 |--------------------|------------------|------------|
 | ![Template Selection](![1749036806570](https://github.com/user-attachments/assets/72608afb-5a9e-495c-825c-f4d60ff62d17)
 
-) | ![Editor](![1749036804308](https://github.com/user-attachments/assets/e6c12817-5776-4cae-a413-f7bf9c4649f8)
-) | ![PDF Output](![1749036805205](https://github.com/user-attachments/assets/0da86407-1a0f-4bcb-92c8-a2490418b215)
-) |
+ | ![Editor](![1749036804308](https://github.com/user-attachments/assets/e6c12817-5776-4cae-a413-f7bf9c4649f8)
+ | ![PDF Output](![1749036805205](https://github.com/user-attachments/assets/0da86407-1a0f-4bcb-92c8-a2490418b215)
+ |
 
 
 ---

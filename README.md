@@ -91,7 +91,7 @@ These features work in a local environment or when hosted on a PHP-supported ser
 
 | Template Selection | Editor Interface | PDF Output |
 |--------------------|------------------|------------|
-| <img src="https://github.com/user-attachments/assets/72608afb-5a9e-495c-825c-f4d60ff62d17" alt="Template Selection" width="400">
+| <img src="https://github.com/user-attachments/assets/72608afb-5a9e-495c-825c-f4d60ff62d17" alt="Template Selection" width="200" height="200">
 
 
  | ![Editor](![1749036804308](https://github.com/user-attachments/assets/e6c12817-5776-4cae-a413-f7bf9c4649f8)

@@ -31,7 +31,7 @@ With **multiple ready-to-use templates**, **automatic profile information integr
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) 
 
 ### Hosting
- Netlify *(Frontend only)*(https://api.netlify.com/api/v1/badges/YOUR_NETLIFY_ID/deploy-status)](https://covgene.netlify.app)  
+ Netlify *(Frontend only)*
 
 
 ⚠ **Note:** Due to Netlify's PHP and MySQL limitations, **login, profile management, and database-driven features** are not active in the live version. A full deployment will be made on a PHP/MySQL-supported host in the future.
@@ -87,64 +87,16 @@ These features work in a local environment or when hosted on a PHP-supported ser
 
 ---
 
-## 📂 Installation & Setup
-
-If you want to run this project locally with **full functionality**:
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/cover-page-generator.git
-   cd cover-page-generator
-   ```
-
-2. **Set up PHP & MySQL environment:**
-
-   * Install [XAMPP](https://www.apachefriends.org/) or [WAMP](https://www.wampserver.com/).
-   * Start **Apache** and **MySQL** services.
-
-3. **Import the database:**
-
-   * Open `phpMyAdmin`
-   * Create a new database (e.g., `coverpage_db`)
-   * Import the provided `.sql` file from the `database` folder.
-
-4. **Configure database connection:**
-
-   * Update `config.php` with your database credentials.
-
-5. **Run the application:**
-
-   * Place project files inside the `htdocs` folder (for XAMPP)
-   * Open in browser:
-
-     ```
-     http://localhost/cover-page-generator
-     ```
-
----
-
 ## 📸 Screenshots
 
 *(Add screenshots of your UI here — template selection, editor interface, PDF output preview, etc.)*
 
 ---
 
-## 🤝 Contributing
-
-Contributions, suggestions, and bug reports are welcome!
-If you’d like to contribute:
-
-1. Fork this repository
-2. Create a new branch (`feature/new-feature`)
-3. Commit changes and push
-4. Submit a pull request
-
----
 
 ## 📜 License
 
-This project is licensed under the **MIT License** – feel free to use, modify, and distribute it for personal or educational purposes.
+This project is licensed under the ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)   – feel free to use, modify, and distribute it for personal or educational purposes.
 
 ---
 

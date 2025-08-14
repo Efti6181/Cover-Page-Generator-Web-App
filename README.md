@@ -89,7 +89,10 @@ These features work in a local environment or when hosted on a PHP-supported ser
 
 ## 📸 Screenshots
 
-*(Add screenshots of your UI here — template selection, editor interface, PDF output preview, etc.)*
+| Template Selection | Editor Interface | PDF Output |
+|--------------------|------------------|------------|
+| ![Template Selection](docs/screenshots/template-selection.png) | ![Editor](docs/screenshots/editor.png) | ![PDF Output](docs/screenshots/pdf-output.png) |
+
 
 ---
 

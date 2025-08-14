@@ -1,149 +1,157 @@
-# 📄 Cover Page Generator Web App  
+# 📄 Cover Page Generator Web App
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_NETLIFY_ID/deploy-status)](https://covgene.netlify.app)  
-[![Made with PHP](https://img.shields.io/badge/Made%20with-PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
+**A modern, customizable, and user-friendly platform** designed to help students, professionals, and organizations quickly create **professional cover pages** for assignments, proposals, reports, and more.
+
+🚀 **Live Demo:** [covgene.netlify.app](https://covgene.netlify.app) *(Database-dependent features currently disabled on live site due to Netlify hosting limitations)*
+
+---
+
+## 🌟 Overview
+
+This project was developed as part of my **Internet Programming** course at **Premier University, Chittagong**. The goal was to create a **full-stack web application** that combines a clean interface, smart automation, and flexible customization to produce high-quality cover pages in minutes.
+
+With **multiple ready-to-use templates**, **automatic profile information integration**, and **PDF download support**, the app is suitable for:
+
+* 🎓 **Students** – Assignments, lab reports, project reports
+* 🏢 **Professionals** – Business proposals, annual reports, presentations
+* 📚 **Researchers** – Academic papers, conference submissions
+
+---
+
+## 🛠 Tech Stack
+
+| Layer        | Technology                |
+| ------------ | ------------------------- |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)     |
+| **Backend**  | PHP                       |
+| **Database** | MySQL                     |
+| **Hosting**  | Netlify *(Frontend only)* |
 
-> **Live Demo:** 🌐 [covgene.netlify.app](https://covgene.netlify.app)  
-> *(Database-dependent features currently disabled due to Netlify hosting limitations)*  
-
----
-
-## 🌟 Overview  
-
-The **Cover Page Generator Web App** is a modern, customizable platform to create **professional cover pages** for assignments, proposals, reports, and more — in minutes.  
-
-Developed as part of my **Internet Programming** course at **Premier University, Chittagong**, it features multiple templates, automated profile info integration, and instant PDF export.  
+⚠ **Note:** Due to Netlify's PHP and MySQL limitations, **login, profile management, and database-driven features** are not active in the live version. A full deployment will be made on a PHP/MySQL-supported host in the future.
 
 ---
 
-## 🛠 Tech Stack  
+## ✨ Key Features
 
-| Layer       | Technology                  |
-|-------------|-----------------------------|
-| **Frontend** | HTML, CSS, JavaScript       |
-| **Backend**  | PHP                         |
-| **Database** | MySQL                       |
-| **Hosting**  | Netlify *(Frontend only)*   |
+### 👤 User Management
 
-⚠ **Note:** PHP & MySQL features are disabled in the live demo because Netlify does not support server-side PHP. Full features work locally or on a PHP-enabled host.
+* **Registration & Login** – Create an account with name, email, and password.
+* **Profile Management** – Update varsity name, department, student ID, section, and profile picture.
 
----
+### ⚡ Smart Automation
 
-## ✨ Features  
+* **Auto-Fill Details** – Profile information is automatically inserted when creating a new cover page, saving time and effort.
 
-### 👤 User Management  
-- Register & log in with name, email, and password  
-- Update varsity name, department, student ID, section, and profile picture  
+### 🎨 Customization Options
 
-### ⚡ Smart Automation  
-- Auto-fills cover page fields from your saved profile  
+* Rich text editing: **bold**, *italic*, **font size adjustments**, text color changes, and more.
+* Multiple **professional cover page templates** for different needs.
 
-### 🎨 Customization Options  
-- Bold, italic, font size adjustments, text colors, and more  
-- Multiple ready-to-use templates for different needs  
+### 📄 Output Options
 
-### 📄 Output Options  
-- Download as PDF  
-- Direct print from browser  
+* **Instant PDF download** or **direct printing**.
 
-### 🎓 Special Templates for Premier University Chittagong  
-- Assignment cover pages  
-- Lab report covers  
-- Index pages (PUC standard format)  
+### 🎓 Premier University Chittagong Special Templates
+
+* Assignment cover pages
+* Lab report covers
+* Index pages tailored to PUC formatting standards
 
 ---
 
-## 📸 Screenshots  
+## 📌 Future Plans
 
-| Template Selection | Editor Interface | PDF Output |
-|--------------------|------------------|------------|
-| ![Template Selection](docs/screenshots/template-selection.png) | ![Editor](docs/screenshots/editor.png) | ![PDF Output](docs/screenshots/pdf-output.png) |
-
----
-
-## 🚀 Future Improvements  
-
-- Deploy to PHP/MySQL-enabled hosting for full functionality  
-- Expand template gallery  
-- Advanced typography & layout control  
-- Cloud storage for templates  
+* ✅ **Full-stack deployment** with all features enabled
+* ✅ Enhanced template gallery with more customization options
+* ✅ Cloud-based template storage for user convenience
+* ✅ Advanced typography and layout controls
 
 ---
 
-## 📂 Installation (Local Setup)  
+## 🚧 Current Limitations
 
-1. **Clone repository**  
+Since the project is currently hosted on **Netlify**:
+
+* PHP code cannot execute server-side
+* MySQL database connection is disabled
+* Login, search, and profile updates are not functional in the live demo
+
+These features work in a local environment or when hosted on a PHP-supported server (e.g., XAMPP, WAMP, or cPanel hosting).
+
+---
+
+## 📂 Installation & Setup
+
+If you want to run this project locally with **full functionality**:
+
+1. **Clone the repository:**
+
    ```bash
-   git clone https://github.com/YOUR_USERNAME/cover-page-generator.git
+   git clone https://github.com/yourusername/cover-page-generator.git
    cd cover-page-generator
-Set up environment
+   ```
 
-Install XAMPP or WAMP
+2. **Set up PHP & MySQL environment:**
 
-Start Apache & MySQL
+   * Install [XAMPP](https://www.apachefriends.org/) or [WAMP](https://www.wampserver.com/).
+   * Start **Apache** and **MySQL** services.
 
-Import database
+3. **Import the database:**
 
-Create database in phpMyAdmin (e.g., coverpage_db)
+   * Open `phpMyAdmin`
+   * Create a new database (e.g., `coverpage_db`)
+   * Import the provided `.sql` file from the `database` folder.
 
-Import .sql from database folder
+4. **Configure database connection:**
 
-Configure database
+   * Update `config.php` with your database credentials.
 
-Edit config.php with your credentials
+5. **Run the application:**
 
-Run locally
+   * Place project files inside the `htdocs` folder (for XAMPP)
+   * Open in browser:
 
-arduino
-Copy
-Edit
-http://localhost/cover-page-generator
-🤝 Contributing
-Contributions are welcome!
-
-Fork repository
-
-Create new branch (feature/your-feature)
-
-Commit & push changes
-
-Submit pull request
-
-📜 License
-This project is licensed under the MIT License. See LICENSE for details.
-
-👨‍💻 Author
-Najmul Alam Efti
-🎓 Premier University, Chittagong
-📧 your.email@example.com
-🌐 Live Demo
-
-yaml
-Copy
-Edit
+     ```
+     http://localhost/cover-page-generator
+     ```
 
 ---
 
-If you want, I can **also make a matching logo + banner image** for your README so it looks like a polished product landing page.  
-That would make your GitHub repo *look like a real startup project*.  
+## 📸 Screenshots
 
-Do you want me to design that?
+*(Add screenshots of your UI here — template selection, editor interface, PDF output preview, etc.)*
 
+---
 
+## 🤝 Contributing
 
+Contributions, suggestions, and bug reports are welcome!
+If you’d like to contribute:
 
+1. Fork this repository
+2. Create a new branch (`feature/new-feature`)
+3. Commit changes and push
+4. Submit a pull request
 
+---
 
+## 📜 License
 
+This project is licensed under the **MIT License** – feel free to use, modify, and distribute it for personal or educational purposes.
 
-Ask ChatGPT
-You said:
-yeah
+---
 
+## 👨‍💻 Author
 
-ChatGPT said:
+**Najmul Alam Efti**
+🎓 Premier University, Chittagong
+📧 \[[your.email@example.com](mailto:your.email@example.com)]
+🌐 [Live Demo](https://covgene.netlify.app)
+
+---
+
+I can also make this **visually attractive** with GitHub README badges (tech stack badges, Netlify badge, license badge, etc.) so your repo looks more professional and appealing.
+
+Do you want me to make that styled, badge-rich version next? That will make your GitHub project page look much more polished.

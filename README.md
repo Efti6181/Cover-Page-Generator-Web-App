@@ -93,14 +93,9 @@ These features work in a local environment or when hosted on a PHP-supported ser
 |--------------------|------------------|------------|
 | <img src="https://github.com/user-attachments/assets/72608afb-5a9e-495c-825c-f4d60ff62d17" alt="Template Selection" width="200" height="200"> | <img src="https://github.com/user-attachments/assets/72608afb-5a9e-495c-825c-f4d60ff62d17" alt="Template Selection" width="200" height="200"> | <img src="https://github.com/user-attachments/assets/72608afb-5a9e-495c-825c-f4d60ff62d17" alt="Template Selection" width="200" height="200"> |
 
-| Template Selection | Editor Interface | PDF Output |
-|--------------------|------------------|------------|
-| <img src="https://github.com/user-attachments/assets/72608afb-5a9e-495c-825c-f4d60ff62d17" alt="Template Selection" width="200" height="200">
+![1749036804308](https://github.com/user-attachments/assets/2a2a88b8-e88f-4a97-a59d-d24c102a25ea)
+![1749036805205](https://github.com/user-attachments/assets/ed5b309b-c500-48e9-9648-e4dab1b911db)
 
-
- | <img src="https://github.com/user-attachments/assets/72608afb-5a9e-495c-825c-f4d60ff62d17" alt="Template Selection" width="200" height="200">
- | <img src="https://github.com/user-attachments/assets/72608afb-5a9e-495c-825c-f4d60ff62d17" alt="Template Selection" width="200" height="200">
- |
 
 
 ---

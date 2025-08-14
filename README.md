@@ -31,16 +31,8 @@ With **multiple ready-to-use templates**, **automatic profile information integr
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) 
 
 ### Hosting
-[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_NETLIFY_ID/deploy-status)](https://covgene.netlify.app)  
+ Netlify *(Frontend only)*(https://api.netlify.com/api/v1/badges/YOUR_NETLIFY_ID/deploy-status)](https://covgene.netlify.app)  
 
-| Layer        | Technology                |
-| ------------ | ------------------------- |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)     |
-| **Backend**  | PHP                       |
-| **Database** | MySQL                     |
-| **Hosting**  | Netlify *(Frontend only)* |
 
 ⚠ **Note:** Due to Netlify's PHP and MySQL limitations, **login, profile management, and database-driven features** are not active in the live version. A full deployment will be made on a PHP/MySQL-supported host in the future.
 

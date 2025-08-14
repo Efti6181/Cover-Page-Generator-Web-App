@@ -24,6 +24,15 @@ With **multiple ready-to-use templates**, **automatic profile information integr
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
 
+### Backend
+[![Made with PHP](https://img.shields.io/badge/Made%20with-PHP-777BB4?logo=php&logoColor=white)](https://www.php.net/)  
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) 
+
+### Hosting
+[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_NETLIFY_ID/deploy-status)](https://covgene.netlify.app)  
+
 | Layer        | Technology                |
 | ------------ | ------------------------- |
 | **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  

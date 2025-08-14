@@ -96,7 +96,7 @@ These features work in a local environment or when hosted on a PHP-supported ser
 
 ## 📜 License
 
-This project is licensed under the ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)   – feel free to use, modify, and distribute it for personal or educational purposes.
+This project is licensed under the ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)   – feel free to use [The WebApp ](https://covgene.netlify.app) for personal or educational purposes.
 
 ---
 
@@ -104,11 +104,7 @@ This project is licensed under the ![License: MIT](https://img.shields.io/badge/
 
 **Najmul Alam Efti**
 🎓 Premier University, Chittagong
-📧 \[[your.email@example.com](mailto:your.email@example.com)]
+📧 \[najmul27alam@gmail.com]
 🌐 [Live Demo](https://covgene.netlify.app)
 
 ---
-
-I can also make this **visually attractive** with GitHub README badges (tech stack badges, Netlify badge, license badge, etc.) so your repo looks more professional and appealing.
-
-Do you want me to make that styled, badge-rich version next? That will make your GitHub project page look much more polished.

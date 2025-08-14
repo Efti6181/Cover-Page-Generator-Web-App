@@ -80,42 +80,7 @@ These features work in a local environment or when hosted on a PHP-supported ser
 
 ---
 
-## 📂 Installation & Setup
 
-If you want to run this project locally with **full functionality**:
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/cover-page-generator.git
-   cd cover-page-generator
-   ```
-
-2. **Set up PHP & MySQL environment:**
-
-   * Install [XAMPP](https://www.apachefriends.org/) or [WAMP](https://www.wampserver.com/).
-   * Start **Apache** and **MySQL** services.
-
-3. **Import the database:**
-
-   * Open `phpMyAdmin`
-   * Create a new database (e.g., `coverpage_db`)
-   * Import the provided `.sql` file from the `database` folder.
-
-4. **Configure database connection:**
-
-   * Update `config.php` with your database credentials.
-
-5. **Run the application:**
-
-   * Place project files inside the `htdocs` folder (for XAMPP)
-   * Open in browser:
-
-     ```
-     http://localhost/cover-page-generator
-     ```
-
----
 
 ## 📸 Screenshots
 

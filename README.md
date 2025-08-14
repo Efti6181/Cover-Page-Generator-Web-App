@@ -104,7 +104,9 @@ This project is licensed under the ![License: MIT](https://img.shields.io/badge/
 
 **Najmul Alam Efti**
 🎓 Premier University, Chittagong
+
 📧 \[najmul27alam@gmail.com]
+
 🌐 [Live Demo](https://covgene.netlify.app)
 
 ---
